@@ -1,2 +1,2 @@
 # .github
-This is a
+This is a reposotory for the Gunn High School History Club.
